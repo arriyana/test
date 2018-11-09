@@ -40,3 +40,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Idea
+*.iml
+/.idea
+/target
+/out
